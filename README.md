@@ -1,5 +1,6 @@
 # MoviesDailyDemo
-MoviesDaily RN项目环境升级（https://github.com/ahnafalfariza/MoviesDaily）
+MoviesDaily RN项目环境升级<br>
+原项目地址：https://github.com/ahnafalfariza/MoviesDaily
 
 #本地环境
 ```bash

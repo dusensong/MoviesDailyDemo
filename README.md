@@ -1,5 +1,5 @@
 # MoviesDailyDemo
-MoviesDaily RN项目移植（https://github.com/ahnafalfariza/MoviesDaily）
+MoviesDaily RN项目环境升级（https://github.com/ahnafalfariza/MoviesDaily）
 
 #本地环境
 ```bash
